@@ -22,7 +22,7 @@ Proyecto de Consumo de Calorías, se utilizaron las siguientes herramientas con 
 - Calorie Tracker
 - Form
 
-## Dependecias
+## Dependencias
 
 - @heroicons/react
 - tailwindcss
