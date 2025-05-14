@@ -18,13 +18,10 @@ Este proyecto utiliza:
 - **heroicons/react**: Un conjunto de íconos SVG optimizados para React, diseñados para ser fáciles de usar.
 
 ### Componentes
-- **ActivityList**: Componente encargado de mostrar una lista de actividades registradas, incluyendo sus respectivas calorías consumidas o quemadas. Permite visualizar de manera organizada las actividades realizadas por el usuario.
-
-- **CalorieDisplay**: Componente que muestra un resumen visual del balance calórico actual, indicando las calorías consumidas, quemadas y el total restante.
-
-- **CalorieTracker**: Componente principal que actúa como contenedor para los demás componentes. Gestiona el estado global de la aplicación y coordina la interacción entre los diferentes elementos.
-
-- **Form**: Componente utilizado para registrar nuevas actividades. Permite al usuario ingresar detalles como el nombre de la actividad, las calorías asociadas y si fueron consumidas o quemadas.
+- **ActivityList**
+- **CalorieDisplay**
+- **CalorieTracker**
+- **Form**
 
 Estas herramientas y configuraciones están diseñadas para ofrecer una experiencia de desarrollo eficiente y moderna.
 
